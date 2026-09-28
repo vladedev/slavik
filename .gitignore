@@ -1,0 +1,8 @@
+input/*
+!input/.keep
+output/*
+!output/.keep
+work/*
+!work/.keep
+__pycache__/
+*.pyc
